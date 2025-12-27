@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>تست سایت من</title>
+    <style>
+        body {
+            font-family: Tahoma, sans-serif;
+            background-color: #e3f2fd; /* رنگ پس‌زمینه آبی کمرنگ */
+            text-align: center;
+            padding-top: 100px;
+        }
+        h1 {
+            color: #1565c0; /* رنگ آبی پررنگ برای تیتر */
+        }
+        .box {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            display: inline-block;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="box">
+        <h1>سلام دنیا! 🌍</h1>
+        <p>این اولین وب‌سایت تستی من روی گیت‌هاب است.</p>
+        <p>به زودی مطالب پرستاری را اینجا می‌گذارم.</p>
+    </div>
+
+</body>
+</html>
